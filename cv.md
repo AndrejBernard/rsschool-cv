@@ -1,4 +1,5 @@
 # Andrej Bernard
+![](./andrej.jpg)
 
 ## Contacts
 + Location: *Minsk*
